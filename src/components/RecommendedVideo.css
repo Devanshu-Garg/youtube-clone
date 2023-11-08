@@ -9,3 +9,7 @@
 margin-left: 5px;
 margin-bottom: 20px;
 }
+.recommendedVideo__videos{
+	display: flex;
+	flex-wrap: wrap;
+}
